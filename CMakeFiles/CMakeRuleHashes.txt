@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+2ffedb5ffefee44e63ba0e46b4ebd2f2 test/CMakeFiles/check
+6654254d5a2da232899501798579201a test/CMakeFiles/test_config_read.check
+3cc55de301fed64ccb70fd21484ce630 test/CMakeFiles/test_registrar.check
+ff6a8a8d5a498439f44ba9dc521345a2 test/CMakeFiles/test_server_duplicate_requests.check
+9edee35d91126f511256b0c0f29c7034 test/CMakeFiles/test_server_events.check
+544e116845c5c94cf5674bf35e0df361 test/CMakeFiles/test_server_json.check
+5000320624927676d5ddbd7f5346533c test/CMakeFiles/test_server_json_session.check

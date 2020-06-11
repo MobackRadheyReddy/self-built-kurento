@@ -1,0 +1,36 @@
+/home/subu/CLion/clion-2020.1.2/bin/cmake/linux/bin/cmake -G "CodeBlocks - Unix Makefiles" /home/subu/kurento-media-server
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- CMake project: kurento-media-server
+If KurentoHelpers is not found, you need to install 'kms-cmake-utils' from the Kurento repository
+CMake Error at CMakeLists.txt:12 (find_package):
+  By not providing "FindKurentoHelpers.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "KurentoHelpers", but CMake did not find one.
+
+  Could not find a package configuration file provided by "KurentoHelpers"
+  with any of the following names:
+
+    KurentoHelpersConfig.cmake
+    kurentohelpers-config.cmake
+
+  Add the installation prefix of "KurentoHelpers" to CMAKE_PREFIX_PATH or set
+  "KurentoHelpers_DIR" to a directory containing one of the above files.  If
+  "KurentoHelpers" provides a separate development package or SDK, be sure it
+  has been installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/subu/kurento-media-server/CMakeFiles/CMakeOutput.log".
